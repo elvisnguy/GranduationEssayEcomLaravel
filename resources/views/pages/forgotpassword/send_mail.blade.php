@@ -1,0 +1,1 @@
+<p>Click vào link để thay đổi mật khẩu {{ URL::to('/reset-password/' . $token) }}</p>
